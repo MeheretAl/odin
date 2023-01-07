@@ -1,0 +1,19 @@
+html {
+    box-sizing: border-box;
+    height: 100%;
+}
+
+
+h1 {
+   text-align: center;
+}
+
+ul{
+    display: table;
+    margin: auto;
+}
+
+.link{
+    justify-content: center;
+    display: flex;
+}
