@@ -1,0 +1,35 @@
+html{
+    box-sizing: border-box;
+    height: 100%;
+}
+
+body {
+
+    background: linear-gradient(340deg,rgba(65, 211, 186, 0.562),rgba(159, 206, 51, 0.575),rgba(124, 66, 48, 0.582));
+}
+
+h1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    margin-left:10%;
+}
+
+p{
+    text-indent: 5%;
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
